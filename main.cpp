@@ -16,5 +16,15 @@ Point p1;
 p1.x=5;
 p1.y=12;
 p1.print();
+
+Point p2;
+p2.x=7;
+p2.y=3;
+p2.print();
+
+Point p3;
+p3.x=6;
+p3.y=11;
+p3.print();
 return 0;
 }
